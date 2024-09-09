@@ -1,0 +1,22 @@
+h1 {
+    font-family: "Georgia", serif;
+    color: white;
+}
+
+h2 {
+    font-family: "Georgia", serif;
+    color: gray;
+}
+
+ul,
+ol {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+img {
+    margin-top: 20px;
+}
